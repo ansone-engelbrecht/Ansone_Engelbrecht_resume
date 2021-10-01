@@ -1,0 +1,32 @@
+body {
+  background-color: #FFBCBC;
+  display: center;
+}
+
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  border-width: thick;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+h1 {
+  text-shadow: 3px 3px purple;
+  color: #11052C;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h3 {
+  color: #11052C;
+}
+
+table {
+  display: inline-block;
+}
